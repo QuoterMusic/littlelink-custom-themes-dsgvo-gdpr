@@ -1,2 +1,2 @@
-# littlelink-custom-themes-dsgvo-gdpr
-LittleLink Custom Themes without third party
+# LittleLink Custom Themes without third-party content
+LittleLink Custom Themes without third-party content
